@@ -1,0 +1,5 @@
+{
+    "intelephense.diagnostics.undefinedMethods": true,
+    "intelephense.diagnostics.undefinedFunctions": true,
+    "intelephense.diagnostics.undefinedClassConstants": true
+}
